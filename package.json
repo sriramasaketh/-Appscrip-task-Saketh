@@ -1,0 +1,27 @@
+{
+  "name": "appscrip-task-your-name",
+  "version": "1.0.0",
+  "description": "A demo project for Appscrip task using Next.js, React, and Server-Side Rendering.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/Appscrip-task-your-name.git"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "next": "13.x",
+    "react": "18.x",
+    "react-dom": "18.x"
+  },
+  "devDependencies": {
+    "eslint": "8.x",
+    "eslint-config-next": "13.x"
+  }
+}

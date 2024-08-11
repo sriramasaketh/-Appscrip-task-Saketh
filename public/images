@@ -1,0 +1,7 @@
+<Image
+  src="/images/product-image.jpg"
+  alt="High-quality leather sofa in a modern living room"
+  width={800}
+  height={400}
+  className={styles.responsiveImage}
+/>

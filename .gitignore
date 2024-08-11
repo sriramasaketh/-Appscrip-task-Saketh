@@ -1,0 +1,40 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Node modules
+node_modules/
+
+# Next.js build output
+.next/
+out/
+build/
+
+# Production environment variables
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Miscellaneous
+.DS_Store
+*.pem
+
+# TypeScript
+*.tsbuildinfo
+
+# ESLint cache
+.eslintcache
+
+# VSCode settings
+.vscode/
+
+# Ignore IDE specific files
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
